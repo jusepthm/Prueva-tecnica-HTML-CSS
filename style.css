@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 div {
     display: block;
 }
@@ -55,6 +61,13 @@ div {
     color: #000000;
     margin: 0;
 }
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 .jss15{
     padding: 0;
     margin-top: 0;
@@ -84,11 +97,4 @@ ul{
 .jss20{
     color: #563DFF;
     font-weight: bold;
-}
-p{
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
 }
