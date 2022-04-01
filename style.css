@@ -1,0 +1,94 @@
+div {
+    display: block;
+}
+.jss1 {
+    font-size: min(1.25vw, 24px);
+    background: #fbfbfb;
+    min-height: calc(100vh - 70px);
+}
+
+.jss10{
+    background: #f8f8f8;
+}
+.jss12{
+    margin: 0;
+    padding: 1.5em 0em;
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+}
+
+.jss13{
+    padding: 0 2em 0 0;
+    position: relative;
+}
+
+.jss17{
+    width: auto;
+    height: 12em;
+    aspect-ratio: 3/2;
+}
+
+.jss18{
+    top: 4em;
+    right: 0;
+    width: 4em;
+    bottom: calc(50% - 2em);
+    position: absolute;
+    aspect-ratio: 1/1;
+}
+
+.jss14{
+    padding: 0 0 0 1.5em;
+    flex-grow: 1;
+    max-width: 50em;
+}
+.jss19{
+    font-size: 1.4em;
+    font-weight: bold;
+}
+.MuiTypography-body1{
+    font-family: Roboto;
+    line-height: 1.5;
+}
+.MuiTypography-root{
+    color: #000000;
+    margin: 0;
+}
+.jss15{
+    padding: 0;
+    margin-top: 0;
+}
+li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-block-start: 0px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-inline-start: 40px;
+}
+
+.jss21{
+    display: inline-block;
+    font-weight: bold;
+}
+.jss23{
+    margin: 0.5em 0;
+}
+.jss20{
+    color: #563DFF;
+    font-weight: bold;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
